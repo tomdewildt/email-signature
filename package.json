@@ -1,0 +1,12 @@
+{
+  "name": "email-signature",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server signature/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "1.2.2"
+  }
+}
